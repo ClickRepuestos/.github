@@ -17,4 +17,4 @@ Toda la data estructurada de nuestro ERP alimenta un Marketplace centralizado. N
 *Ecosistema cloud-native desplegado en Amazon Web Services (AWS), diseñado para alta concurrencia, tolerancia a fallos y escalabilidad transaccional en el e-commerce.*
 
 ---
-🔗 **ERP:** [erp.clickrepuestos.cl](https://erp.clickrepuestos.cl) | 🔗 **Marketplace:** [clickrepuestos.cl](https://clickrepuestos.cl) | 🔗 **LinkedIn:** [Añade tu URL aquí]
+🔗 **ERP:** [erp.clickrepuestos.cl](https://erp.clickrepuestos.cl) | 🔗 **Marketplace:** [clickrepuestos.cl](https://clickrepuestos.cl) | 🔗 **LinkedIn:** 
